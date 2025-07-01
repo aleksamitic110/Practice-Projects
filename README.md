@@ -15,3 +15,6 @@ This repository contains my simple practice projects while learning programming.
 
 - **DTC - Permutation Encryption**  
   A C++ console application that encrypts and decrypts text using permutation algorithms on rows and columns.
+
+- **Tic-Tac-Toe (Iks Oks)**  
+  A simple C++ console-based Tic-Tac-Toe game for two players.
