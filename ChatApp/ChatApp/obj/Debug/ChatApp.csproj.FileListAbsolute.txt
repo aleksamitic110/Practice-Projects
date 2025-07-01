@@ -1,0 +1,20 @@
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
