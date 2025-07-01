@@ -9,3 +9,6 @@ This repository contains my simple practice projects while learning programming.
 
 - **ChatApp**  
   A simple peer-to-peer chat application using TCP/IP in C# WinForms.
+
+- **Flappy Bird Remake**  
+  A simple remake of the classic Flappy Bird game built with C# and Windows Forms.
