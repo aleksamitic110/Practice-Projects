@@ -12,3 +12,6 @@ This repository contains my simple practice projects while learning programming.
 
 - **Flappy Bird Remake**  
   A simple remake of the classic Flappy Bird game built with C# and Windows Forms.
+
+- **DTC - Permutation Encryption**  
+  A C++ console application that encrypts and decrypts text using permutation algorithms on rows and columns.
