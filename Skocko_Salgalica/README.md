@@ -15,13 +15,6 @@ Cilj igre je pogoditi tačnu kombinaciju od 4 znaka (S, T, P, H, K, Z) koju rač
 - Igrač ima 7 pokušaja da pogodi tačnu kombinaciju.
 - Nakon svakog pokušaja igra ispisuje koliko znakova je tačno pogođeno (pravi znak na pravom mestu) i koliko znakova je tačno, ali nije na pravom mestu.
 
-## Kako pokrenuti
-
-1. Preuzmite ili klonirajte repozitorijum.
-2. Otvorite projekat u omiljenom C++ razvojnom okruženju (Visual Studio ili neki drugi).
-3. Kompajlirajte i pokrenite program.
-4. Pratite instrukcije u konzoli.
-
 ## Tehnologije
 
 - C++  
