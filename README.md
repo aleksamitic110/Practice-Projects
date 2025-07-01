@@ -18,3 +18,6 @@ This repository contains my simple practice projects while learning programming.
 
 - **Tic-Tac-Toe (Iks Oks)**  
   A simple C++ console-based Tic-Tac-Toe game for two players.
+
+- **Skocko Slagalica**  
+  A simple C++ console game inspired by the Skocko puzzle, where the player tries to guess the correct 4-symbol combination within limited attempts.
