@@ -1,0 +1,20 @@
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\bin\Debug\Digitron.exe.config
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\bin\Debug\Digitron.exe
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\bin\Debug\Digitron.pdb
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.csprojAssemblyReference.cache
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.Digitron.resources
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.Properties.Resources.resources
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.csproj.GenerateResource.cache
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.csproj.CoreCompileInputs.cache
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.exe
+E:\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.pdb
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.csproj.AssemblyReference.cache
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.Digitron.resources
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.Properties.Resources.resources
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.csproj.GenerateResource.cache
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.csproj.CoreCompileInputs.cache
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.exe
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\obj\Debug\Digitron.pdb
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\bin\Debug\Digitron.exe.config
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\bin\Debug\Digitron.exe
+F:\KOMP 2023 (MAMA, PROGRAMIRANJE)\Programiranje\Visual Studio Programiranje\Visual Studio\Visual\C#\Digitron\Digitron\bin\Debug\Digitron.pdb
